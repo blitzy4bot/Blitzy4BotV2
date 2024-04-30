@@ -1,4 +1,5 @@
-Blitzy4BotV2
+# Blitzy4BotV2
+
 In order to run the bot you have to follow a few steps to make it work:
 
 Setup a MySQL server on the machine you want to run the bot.

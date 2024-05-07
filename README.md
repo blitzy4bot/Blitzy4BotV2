@@ -6,7 +6,7 @@ In order to run the bot you have to follow a few steps to make it work:
 2. Create a database on your MySQL server.
 3. Edit /MySQL/.env to match your database name and login.
 4. Run /MySQL/setup.py only !ONCE.
-5. Paste your discord bot token in the enmpty string in "config.py".
+5. Paste your discord bot token in the empty string in "config.py".
 6. Make sure that you have enabled ALL intents on your discord bot (website)
 
 Use &help to list all available commands.

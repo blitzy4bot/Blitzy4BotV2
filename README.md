@@ -15,11 +15,17 @@ Use &help to list all available commands.
 
 There are special commands for Bot-Superusers and for the bot owner.
 
+
+Bot-Superusers:
+
 &deductgold -> deducts gold from a user
 
 &addgold -> adds gold to a user
 
 &force -> enters a user to the DB
+
+
+Owner:
 
 &shutdown -> shutdown the bot entirely
 

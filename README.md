@@ -1,5 +1,7 @@
 # Blitzy4BotV2
 
+Blitzy4Bot (Version 2) is a discord bot created using the discord.py library and includes mainly fun and moderation commands. The bot has its own ecosystem with stored moderations for each server and gold for each user in a MySQL database.
+
 In order to run the bot you have to follow a few steps to make it work:
 
 1. Setup a MySQL server on the machine you want to run the bot.
